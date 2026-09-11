@@ -1,5 +1,7 @@
 # Agent State Architecture: From Naive ReAct to Explicit State
 
+For daily progress of this repo, check out the articles that i post at X (https://x.com/vihaaan17)
+
 An educational repository designed to teach the fundamentals of **Agent State Management** from scratch, moving from an implicit string-gluing loop to a production-grade four-layered explicit state architecture.
 
 ---
