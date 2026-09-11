@@ -1,0 +1,12 @@
+# Secrets & Credentials
+.env
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Persistent Database & Scratch
+*.db
+agent_persistent.db
+scratch/
